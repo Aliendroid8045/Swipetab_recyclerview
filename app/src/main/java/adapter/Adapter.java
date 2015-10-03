@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.Collections;
 import java.util.List;
 
-import koshik.travelove.Information;
+import koshik.SwipeTravel.Information;
 import koshik.travelove.R;
 
 /**

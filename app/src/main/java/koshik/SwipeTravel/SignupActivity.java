@@ -1,4 +1,4 @@
-package koshik.travelove;
+package koshik.SwipeTravel;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import koshik.travelove.R;
 
 public class SignupActivity extends AppCompatActivity implements View.OnClickListener{
 

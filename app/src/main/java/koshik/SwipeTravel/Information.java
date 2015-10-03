@@ -1,4 +1,4 @@
-package koshik.travelove;
+package koshik.SwipeTravel;
 
 /**
  * Created by koshik on 20-09-2015.

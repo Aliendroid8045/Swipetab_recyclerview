@@ -1,4 +1,4 @@
-package koshik.travelove;
+package koshik.SwipeTravel;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -11,6 +11,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
+
+import koshik.travelove.R;
 
 
 public class MainHomePage extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {

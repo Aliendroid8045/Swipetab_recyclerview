@@ -1,4 +1,4 @@
-package koshik.travelove;
+package koshik.SwipeTravel;
 
 
 import android.os.Bundle;
@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import adapter.Adapter;
+import koshik.travelove.R;
 
 
 /**

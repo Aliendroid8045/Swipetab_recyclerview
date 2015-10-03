@@ -1,4 +1,4 @@
-package koshik.travelove;
+package koshik.SwipeTravel;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -10,7 +10,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.HorizontalScrollView;
 import android.widget.TabHost;
-import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
@@ -18,7 +17,8 @@ import java.util.List;
 
 
 import java.util.ArrayList;
-import java.util.List;
+
+import koshik.travelove.R;
 
 
 public class SwapTab extends AppCompatActivity implements ViewPager.OnPageChangeListener, TabHost.OnTabChangeListener
